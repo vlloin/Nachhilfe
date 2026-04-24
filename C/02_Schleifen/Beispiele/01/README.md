@@ -1,2 +1,1 @@
-# 01: Alle Schleifen
-![alt text](ressources/image.png)
+# Ein einfaches Beispiel wie man Schleifen benutzen kann

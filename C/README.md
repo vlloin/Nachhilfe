@@ -1,6 +1,8 @@
 # Folder für C
 Geplanter Stoff:
-- Datentypen
-- Ein- & Ausgabe
+- Zufallszahlen
+- if-else / switch case 
 - Schleifen
 - Arrays
+- Funktionen
+- Epsilon
